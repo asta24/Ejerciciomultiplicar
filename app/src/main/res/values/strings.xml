@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio multiplicar</string>
+    <string name="txt_num1_String">introduce el primer número</string>
+    <string name="txt_num2_String">introduce el segundo número</string>
+</resources>
